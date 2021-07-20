@@ -1,0 +1,57 @@
+.op{
+    text-align: center;
+    font-style: italic;
+    color:grey;
+    text-decoration-line: underline;
+    text-shadow: 2px 7px 7px aqua;
+}
+p::first-letter{
+
+    text-align: justify;
+    text-transform:uppercase ;
+    line-height: 1.4em;
+}
+.sunny{
+
+    text-indent: 6%;
+}
+.id{
+    color: grey;
+    text-decoration-line: underline;
+}
+.t{
+    
+    color: hotpink;
+    text-shadow: 4px 1px 10px #000000;
+}
+.jhone:first-letter{
+    font-size: 40px;
+}
+
+
+
+input:hover{
+    border-color: brown;
+}
+input:focus{
+    background-color: yellow;
+}
+button:hover{
+    background-color: teal;
+}
+button:active{
+    background: blue;
+}
+
+img{
+    width: 100%;
+}
+.go{
+    border: 2px solid;
+    background-color: royalblue;
+    margin: ;
+}
+p{
+    background: saddlebrown;
+    padding: 10px;
+}
